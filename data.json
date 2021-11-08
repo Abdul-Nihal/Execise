@@ -1,0 +1,37 @@
+[{
+  "id": 1,
+  "first_name": "Jeanette",
+  "last_name": "Penddreth",
+  "email": "jpenddreth0@census.gov",
+  "gender": "Female",
+  "dept": "EC",
+  "address":{"city":"new york", "house_no":30},
+  "merit":true
+}, {
+  "id": 2,
+  "first_name": "Giavani",
+  "last_name": "Frediani",
+  "email": "gfrediani1@senate.gov",
+  "gender": "Male",
+  "dept":"IT",
+  "address":{"city":"delhi", "house_no":40},
+  "merit":true
+}, {
+  "id": 3,
+  "first_name": "Noell",
+  "last_name": "Bea",
+  "email": "nbea2@imageshack.us",
+  "gender": "Female",
+  "dept": "EC",
+  "address":{"city":"mumbai", "house_no":1410},
+  "merit":true
+}, {
+  "id": 4,
+  "first_name": "Willard",
+  "last_name": "Valek",
+  "email": "wvalek3@vk.com",
+  "gender": "Male",
+  "dept": "IT",
+  "address":{"city":"kochi", "house_no":10},
+  "merit":false
+}]
